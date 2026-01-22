@@ -1,0 +1,12 @@
+---
+title: Notes on the course of Ultimate Guide to FastAPI and Backend Development
+authors:
+  - name: Huang Tang
+    affiliation: REI Systems
+    roles: writing
+    corresponding: true
+bibliography: references.bib
+---
+
+## Section
+This is a simple placeholder for the manuscript's main document [@knuth84].
